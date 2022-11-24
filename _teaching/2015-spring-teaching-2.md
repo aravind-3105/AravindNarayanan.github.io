@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Robotics Summer School Instructor"
 collection: teaching
-type: "Workshop"
+type: "Summer School"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Robotics Research Center, IIIT Hyderabad"
+date: June 2022
+location: "Hyderbad India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Gave lectures on kinematics, transformations and ROS programming to a class of 30 new lab entrants to 
+[Robotics Research Center, IIIT-Hyderabad](https://robotics.iiit.ac.in/)
